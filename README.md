@@ -13,3 +13,4 @@ capturar um Pokémon, o programa irá imprimir qual Pokémon foi capturado. Se n
 
 Finalmente, o programa imprime uma mensagem referente ao motivo pelo qual se encerrou (nenhuma Pokebola ou nenhum Pokémon livre disponíveis).
 
+Este projeto foi entregue em janeiro de 2021 como avaliação final da disciplina MAC0115 do curso Física Bacharelado.
