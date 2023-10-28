@@ -15,7 +15,7 @@ Finalmente, o programa imprime uma mensagem referente ao motivo pelo qual se enc
 
 Este projeto foi entregue em janeiro de 2021 como avaliação final da disciplina MAC0115 do curso Física Bacharelado.
 
-##Arquivos .txt utilizados
+## Arquivos .txt utilizados
 
 Dados da entrada1.txt:
 15 40
@@ -48,8 +48,12 @@ Nidoran 1 4 9
 Quilava 2 3 4
 Rayquaza 3 10 5
 
-##Exemplos>
+## Exemplos
 
+Jogada 1:
+
+
+Jogada 2:
 
 
 
