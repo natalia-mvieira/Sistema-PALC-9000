@@ -17,44 +17,58 @@ Este projeto foi entregue em janeiro de 2021 como avaliação final da disciplin
 
 ## Arquivos .txt utilizados
 
-Dados da entrada1.txt:
-15 40
-Pidgey 0 22 7
-
-Dados da entrada2.txt:
-10 10
-Nidoran 1 4 5
-
-Dados da entrada3.txt:
-15 30
-Quilava 2 9 8
-
-Dados da entrada4.txt:
-15 32
-Nidoran 1 14 13
-Pidgey 0 25 10
-Quilava 2 9 12
-
-Dados da entrada5.txt:
-25 60
-Nidoran 1 14 23
-Pidgey 0 55 14
-Quilava 2 9 22
-Rayquaza 4 30 8
-
-Dados da entrada6.txt:
-12 15
-Nidoran 1 4 9
-Quilava 2 3 4
-Rayquaza 3 10 5
+<p>
+Dados da entrada1.txt: <br />
+15 40 <br />
+Pidgey 0 22 7 <br />
+</p>
+<p>
+Dados da entrada2.txt:<br />
+10 10<br />
+Nidoran 1 4 5<br />
+</p>
+<p>
+Dados da entrada3.txt:<br />
+15 30<br />
+Quilava 2 9 8<br />
+</p>
+<p>
+Dados da entrada4.txt:<br />
+15 32<br />
+Nidoran 1 14 13<br />
+Pidgey 0 25 10<br />
+Quilava 2 9 12<br />
+</p>
+<p>
+Dados da entrada5.txt:<br />
+25 60<br />
+Nidoran 1 14 23<br />
+Pidgey 0 55 14<br />
+Quilava 2 9 22<br />
+Rayquaza 4 30 8<br />
+</p>
+<p>
+Dados da entrada6.txt:<br />
+12 15<br />
+Nidoran 1 4 9<br />
+Quilava 2 3 4<br />
+Rayquaza 3 10 5<br />
+</p>
 
 ## Exemplos
 
 Jogada 1:
 
+<div align="center">
+    <img src="https://github.com/natalia-mvieira/Sistema-PALC-9000/assets/144560412/eebadb7e-41a7-4a62-a452-b6a5c4da9c2b" width="400px"/>
+</div>
+
+
 
 Jogada 2:
 
-
+<div align="center">
+    <img src="https://github.com/natalia-mvieira/Sistema-PALC-9000/assets/144560412/f47e7298-f40a-451e-81ac-0595f7bbcd0a" width="400px"/>
+</div>
 
 
